@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a data scientist and software engineer working in the operations research domain. I've spent most of my career building
+statistical and optimization tools for a variety of inventory management and network design problems.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I have a B.S. in Biochemistry from Pennsylvania State University and an M.S. in Data Science from University of Rochester. In
+the past - I worked in a systems biology lab helping build models of biological signaling systems. This work was part of 
+an effort to create a boolean network model of a cellular mechanism related to plant drought tolerance found [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003451).
+
+I'm an avid reader in my free time. I enjoy reading about North African and Western Asian history, philosophy, and science fiction.
+I'm either out for a run, or playing strategy games, if I'm not reading.
