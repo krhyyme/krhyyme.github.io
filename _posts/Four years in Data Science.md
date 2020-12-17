@@ -76,5 +76,4 @@ a list of reading materials that I found particularly informative:
 * [Big Data is People!](https://medium.com/@torgo/big-data-is-people-47158068201a)
 * [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com)
 * [Archaeology for cyborgs](https://medium.com/@janeruffino/archaeology-for-cyborgs-a4c7c5594c2c)
-* [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236)
 * [A Code of Ethics for Data Science](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
