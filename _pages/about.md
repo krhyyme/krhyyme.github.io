@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am a data scientist and software engineer who had the oppurtunity to work on a variety of supply chain and operations 
+I am a data scientist and software engineer who had the opportunity to work on a variety of supply chain and operations 
 research problems. I've spent most of my career building statistical and optimization tools for a variety of inventory 
 management and network design problems.
 
