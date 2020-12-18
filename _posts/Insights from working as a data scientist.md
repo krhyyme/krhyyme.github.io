@@ -1,8 +1,8 @@
-# Reflections on being a data scientist
+# Insights from working as a data scientist
 
 I was recently asked about my experiences working as a data scientist by a close friend looking to transition out of 
 academia once he completed his PhD. Considering a data science role, he asked _"What are five things you wish you knew, or someone told you,
-at the start of your career?"_
+at the start of your career?"_ This list captures some of the more important insights I've learned through out my career so far.
 
 ### The title Data Scientist can describe many different roles.
 
@@ -11,17 +11,17 @@ or company does. The potential applications cover a diverse set of domains. A no
 personalization, operations research, demand forecasting, and survey analysis work. In addition, this doesn't capture the range of machine learning / data science engineering roles
 that focus on deploying and maintaining models in production.
 
-Each domain can require a unique mix of technical and soft skill sets. This is why it's hard to take the what is a  "real data scientist"
-articles seriously. There is a diversity of skill sets that match the diversity of application domains. And often, successful analysts/software engineers who
-have worked in these domains since before popularization of data science don't fit the conventional image of a data scientist that you see described
+Each domain can require a unique mix of technical and soft skill sets. This is why it's hard to take discussions on what constitutes a "real data scientist"
+ seriously. There are a diversity of skill sets that match the diversity of application domains. And often, successful analysts/software engineers who
+have worked in these domains since before the popularization of data science don't fit conventional images of data scientists you see described
 in the blogosphere or on Twitter. 
 
-My recommendation to my friend was to identify what domains excite you and fill any identified skill gaps. Then chase interesting work
+My recommendation is to identify what domains excite you and fill any identified skill gaps. Then chase interesting work
 wherever it leads regardless of job title or whether someone online thinks its "real data science."
 
 ### Good code is organized code
 
-Software engineering is almost entirely about managing complexity. Especially, when it comes to managing machine learning
+A big part of software engineering is managing complexity to ensure code bases are maintainable and reliable. Especially, when it comes to managing machine learning
 or statistical modeling pipelines. When I hear the term "good code" used in my professional life it often means the code
 base is:
 
@@ -35,13 +35,14 @@ build.
 
 ### Understand what motivates you
 
-It's really important to know yourself and understand why your favorite projects leave you with a sense of satisfaction. Getting a job is
-a culture match as well as a skill match. Having a confident sense of self enables you to ask the right questions about team culture, better 
-navigate what particular employers may mean when they speak of "cultural fit", and construct a personal brand to attract employers that have
-the flavor work culture that most appeals to you.
+It's really important to know yourself and understand why your favorite projects leave you with a sense of satisfaction. Pay attention to what
+to what motivates you or demoralizes you during the work week. If you had a good day - reflect on why the day was good. It's easy to be dismiss how 
+we react to events in our day as a matter of circumstance. But often there is a broader narrative linked to our personal sense of motivation and purpose.
 
-During my own career, I've found that I'm motivated by a sense of curiosity and discovery. This often translates to working with a team
-that encourages self-directed work and tackling open-ended projects pushing the envelope of a company's data science capabilities.
+Getting a job is a culture match as well as a skill match. Having a confident sense of self enables you to ask the right questions about team culture, better 
+navigate what particular employers may mean when they speak of "cultural fit", and construct a personal brand to attract employers that have
+the flavor of work culture that appeals to you.
+
 
 ### Data is collected because it's necessary to run the business. 
 
